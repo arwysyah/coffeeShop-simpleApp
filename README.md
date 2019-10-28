@@ -1,6 +1,5 @@
 # coffeeShop-simpleApp
 
-# 💻simple-FitnessApp
 
 
 
